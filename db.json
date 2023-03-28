@@ -1,6 +1,6 @@
 {
 
-    "products": [{
+    
         "shoes": [{
                 "id": 101,
                 "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Jpxmkr3dL._AC_UL480_FMwebp_QL65_.jpg",
@@ -144,5 +144,5 @@
 
 
         ]
-    }]
+   
 }
